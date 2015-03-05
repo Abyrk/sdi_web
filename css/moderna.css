@@ -1,0 +1,217 @@
+body {
+margin : 0;
+padding : 0;
+font-family : arial, verdana, tahoma, sans-serif;
+line-height : 1.7em;
+color : #333;
+background : #fff;
+}
+#banner {
+height : 12.5em;
+margin : 0 auto;
+padding : 0;
+background : #669900 url(../images/Fotolia_40262019_S2.jpg) no-repeat;
+color : #333;
+}
+#banner h1 {
+margin : 0;
+padding : 1.6em;
+text-align: left;
+background : transparent;
+color : #BA3F2F;
+}
+#navlist {
+padding : 0.3em 0.3em 0.3em 0em;
+margin : 0 0 1.25em 0;
+text-align : left;
+color : #fff;
+background : #669900;
+}
+#navlist li {
+list-style : none;
+margin : 0;
+display : inline;
+}
+#navlist li a {
+padding : 0.3em 0.75em;
+margin : 0;
+color : #fff;
+background : #669900;
+text-decoration : none;
+}
+#navlist li a:link {
+color : #fff;
+background :#669900;
+}
+#navlist li a:visited {
+color : #fff;
+background : #669900;
+}
+#navlist li a:hover {
+color : #fff;
+background : #BA3F2F;
+}
+#navlist li a#current {
+color : #fff;
+background : #BA3F2F;
+}
+
+.menu ul li {
+line-height : 1.8em;
+margin : 0 0.6em 0 0;
+padding : 0;
+list-style-type : square;
+color : #BA3F2F;
+background : inherit;
+}
+.menu ul li a {
+color : #BA3F2F;
+background : inherit;
+}
+.menu ul li a:hover {
+color : #669900;
+background : inherit;
+}
+#content {
+padding-left : 0.6em;
+margin : 0 15.6em;
+border-right : 0.1em solid #eee;
+border-left : 0.1em solid #eee;
+}
+#content p {
+padding : 0.2em;
+}
+#sidebar-a {
+float : left;
+width : 12.5em;
+margin-left : 0.9em;
+padding : 0 0.3em 0 0.6em;
+}
+#sidebar-b {
+float : right;
+width : 200px;
+margin : 0 15px 0 0;
+padding : 0 5px 0 10px;
+}
+#footer {
+clear : both;
+padding : 0.3em;
+margin : 0;
+background : #669900;
+color : #f7f7f7;
+}
+#footer a {
+text-decoration : none;
+color : #000;
+background : inherit;
+}
+#footer a:hover {
+text-decoration : underline;
+color : #fff;
+background : inherit;
+}
+a {
+text-decoration : none;
+color : #BA3F2F;
+background : inherit;
+}
+a:hover {
+text-decoration : underline;
+color : #aaa;
+background : inherit;
+}
+a img {
+border : 0;
+}
+.border {
+padding : 0.6em;
+margin : 0.6em;
+border : 0.1em solid #aaa;
+}
+.imgleft {
+float : left;
+border : 0.1em solid #aaa;
+margin : 0.3em 0.3em 0.3em 0.3em;
+padding : 0.3em;
+}
+.imgright{
+float : right;
+border : 0.1em solid #aaa;
+margin : 0.3em 0.3em;
+padding : 0.3em;
+}
+h1 {
+margin : 1.25em;
+padding : 0.3em;
+font-size : 1.5em;
+text-align: center;
+color : #fff;
+background : #669900;
+}
+h2 {
+margin : 0;
+padding : 0;
+font-size : 1em;
+text-transform : none;
+color : #BA3F2F;
+background : inherit;
+}
+h3 {
+padding : 0.6em;
+margin: 0.6em;
+text-transform : uppercase;
+font-size : 0.8em;
+color : #fff;
+background : #669900;
+}
+h4 {
+padding : 0.3em;
+text-transform : uppercase;
+font-size : 0.8em;
+color : #BA3F2F;
+background : #D1E0B2;
+}
+.side{
+font-size: 0.8em
+}
+.sidetitle{
+font-size: 0.8em;
+font-weight: bold;
+text-transform: none;
+color: #669900;
+padding-bottom: 0em;
+margin-bottom: 0em
+}
+.clear {
+clear : both;
+width : 100%;
+}
+.col3 {
+float: left;
+width: 33.3%;
+}
+strong {
+color: #000;
+}
+.map1 {
+
+height: 400px; 
+width: 98%;
+}
+.map2 {
+margin: 0 auto;
+height: 600px; 
+width: 900px;
+padding-bottom: 1em;
+}
+.chart1 {
+margin: 0 auto;
+height: 300px; 
+width: 900px;
+padding-bottom: 1em;
+}
+iframe {
+margin: 0 auto;
+width: 900px;
+height: 700px;
+}
